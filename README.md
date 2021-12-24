@@ -1,2 +1,4 @@
 # django_web
-di repo ini saya akan sharing mengenai projek saya menggunakan django sebagai default database untuk web saya
+Sharing my first experience using django framework for my website !
+
+source : https://www.youtube.com/watch?v=hPXNP1NoVNQ&list=PLZS-MHyEIRo6p_RwsWntxMO5QAqIHHHlds
